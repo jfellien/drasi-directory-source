@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drasi.Source.Directory.Proxy", "Drasi.Source.Directory.Proxy\Drasi.Source.Directory.Proxy.csproj", "{0FE425AD-6177-4677-A7BC-0EB0181B6D02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drasi.Source.Directory.Reactivator", "Drasi.Source.Directory.Reactivator\Drasi.Source.Directory.Reactivator.csproj", "{948EC9D3-2ADD-40F4-A2B5-49D415CEF148}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drasi.Source.Directors.Models", "Drasi.Source.Directors.Models\Drasi.Source.Directors.Models.csproj", "{53492725-6A6C-46AA-BC78-E6BABF5F3DD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE425AD-6177-4677-A7BC-0EB0181B6D02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FE425AD-6177-4677-A7BC-0EB0181B6D02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FE425AD-6177-4677-A7BC-0EB0181B6D02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FE425AD-6177-4677-A7BC-0EB0181B6D02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{948EC9D3-2ADD-40F4-A2B5-49D415CEF148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948EC9D3-2ADD-40F4-A2B5-49D415CEF148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948EC9D3-2ADD-40F4-A2B5-49D415CEF148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948EC9D3-2ADD-40F4-A2B5-49D415CEF148}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53492725-6A6C-46AA-BC78-E6BABF5F3DD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53492725-6A6C-46AA-BC78-E6BABF5F3DD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53492725-6A6C-46AA-BC78-E6BABF5F3DD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53492725-6A6C-46AA-BC78-E6BABF5F3DD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
