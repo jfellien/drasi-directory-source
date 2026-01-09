@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: Source
+name: test-directory-source
+spec:
+  kind: Directory
+properties:
+  directory: /path/to/observed/directory

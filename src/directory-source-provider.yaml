@@ -1,0 +1,21 @@
+apiVersion: v1
+kind: SourceProvider
+name: Directory
+spec:
+  services:
+    proxy:
+      image: directory-proxy
+      externalImage: true
+      dapr:
+        app-port: "80"
+    reactivator: 
+      image: directory-reactivator
+      externalImage: true
+      deprovisionHandler: true
+      dapr:
+        app-port: "80"
+  config_schema:
+    type: object
+    properties:
+      directory:
+        type: string
