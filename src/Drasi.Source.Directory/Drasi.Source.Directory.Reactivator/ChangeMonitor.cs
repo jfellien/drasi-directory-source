@@ -1,5 +1,5 @@
 using System.Text.Json.Nodes;
-using Drasi.Source.Directors.Models;
+using Drasi.Source.Directory.Models;
 using Drasi.Source.SDK;
 using Drasi.Source.SDK.Models;
 using Microsoft.Extensions.Configuration;

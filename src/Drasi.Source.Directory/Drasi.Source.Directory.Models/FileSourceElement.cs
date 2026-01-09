@@ -1,4 +1,4 @@
-﻿namespace Drasi.Source.Directors.Models;
+﻿namespace Drasi.Source.Directory.Models;
 
 public sealed class FileSourceElement(string Id, string FileName)
 {

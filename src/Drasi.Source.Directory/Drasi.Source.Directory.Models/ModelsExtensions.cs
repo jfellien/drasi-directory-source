@@ -1,7 +1,7 @@
 using System.Text.Json.Nodes;
 using Drasi.Source.SDK.Models;
 
-namespace Drasi.Source.Directors.Models;
+namespace Drasi.Source.Directory.Models;
 
 public static class ModelsExtensions
 {

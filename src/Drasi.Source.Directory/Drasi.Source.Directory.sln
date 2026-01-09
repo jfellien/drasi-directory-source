@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drasi.Source.Directory.Prox
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drasi.Source.Directory.Reactivator", "Drasi.Source.Directory.Reactivator\Drasi.Source.Directory.Reactivator.csproj", "{948EC9D3-2ADD-40F4-A2B5-49D415CEF148}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drasi.Source.Directors.Models", "Drasi.Source.Directors.Models\Drasi.Source.Directors.Models.csproj", "{53492725-6A6C-46AA-BC78-E6BABF5F3DD1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drasi.Source.Directory.Models", "Drasi.Source.Directory.Models\Drasi.Source.Directory.Models.csproj", "{53492725-6A6C-46AA-BC78-E6BABF5F3DD1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

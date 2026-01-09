@@ -19,7 +19,7 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Drasi.Source.Directors.Models\Drasi.Source.Directors.Models.csproj" />
+      <ProjectReference Include="..\Drasi.Source.Directory.Models\Drasi.Source.Directory.Models.csproj" />
     </ItemGroup>
 
 </Project>
