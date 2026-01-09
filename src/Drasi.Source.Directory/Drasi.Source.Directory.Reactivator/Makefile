@@ -1,4 +1,4 @@
-$IMAGE_NAME ?= directory-proxy
+$IMAGE_NAME ?= directory-reactivator
 
 .PHONY: default docker-build kind-load
 
